@@ -5,4 +5,4 @@
 - 📫 Reach me https://github.com/lyove
 
 
-![Lyove's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyove&show_icons=true&theme=transparent)
+![Lyove's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyove&show_icons=true&theme=transparent&rank_icon=percentile)
