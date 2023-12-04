@@ -2,7 +2,7 @@
 - 👀 I’m a Frontend Engineer, well-equipped to develop scalable and efficient solutions for complex web applications.
 - 💞️ I like open-source development.
 - 🌱 My commitment to keeping up with emerging technologies helps me to continuously enhance my skills and knowledge.
-- 📫 Reach me https://github.com/lyove
+- 📫 Reach me https://lyove.github.io
 
 
 ![Lyove's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyove&show_icons=true&theme=transparent&rank_icon=percentile)
