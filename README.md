@@ -19,8 +19,8 @@
 <a href="#"><img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat" alt="Tailwind"/></a>
 <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat" alt="React"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat" alt="Vue"/></a>
-<a href="#"><img src="https://img.shields.io/badge/.ENV-ECD53F?logo=dotenv&logoColor=000&style=flat" alt=".ENV"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=flat" alt="Axios"/></a>
+<a href="#"><img src="https://img.shields.io/badge/.ENV-ECD53F?logo=dotenv&logoColor=000&style=flat" alt=".ENV"/></a>
 
 🛠 Tools
 
